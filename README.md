@@ -1,7 +1,7 @@
 *Olá, Eu sou Isaque.* 
 *Seja bem-vindo ao meu perfil.*
 
-📚-Estudando programação, mais especificamente front-end.
+📚    -   Estudando programação, mais especificamente front-end.
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaclima&layout=compact&langs_count=7&theme=dracula"/>
