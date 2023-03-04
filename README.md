@@ -1,4 +1,5 @@
-Eu sou Isaque, seja bem-vindo ao meu perfil.
+*Olá, Eu sou Isaque.* 
+*Seja bem-vindo ao meu perfil.*
 
 📚-Estudando programação, mais especificamente front-end.
 
